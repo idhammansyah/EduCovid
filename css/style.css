@@ -1,0 +1,88 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* body {
+
+} */
+
+img {
+    size: 50%;
+}
+
+.jumbotron {
+	overflow: hidden;
+	background: url(../img/covid.png);
+    height: 50vh;
+    margin-top: -75px;
+    background-size: 150px 150px;
+    text-align: center;
+    font-size: 30px;
+}
+
+video {
+    width:100%;
+}
+
+p {
+    color: #000000;
+    text-align: center;
+}
+
+
+h5 {
+    font-weight: bold;
+    color: #000000;
+    text-align: center;
+}
+
+h4 {
+    font-weight: 400px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+.gambar{
+    width: 40px;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.card1 {
+	border-radius: 10px;
+
+}
+
+.card2 {
+	border-radius: 10px;
+}
+
+.card1:hover {
+    box-shadow: 3px 3px 30px 3px rgba(0, 0, 0, 0.5);
+}
+
+.card2:hover {
+    box-shadow: 3px 3px 30px 3px rgba(0, 0, 0, 0.5);
+}
+
+#quiz {
+    text-indent: 10px;
+    display:none;
+}
+
+label {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.scrollspy {
+    height: 300px;
+    overflow-y: scroll;
+    background-color:#205370;
+    color:#d1cfcf;
+}
